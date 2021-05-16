@@ -1,19 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**lolieg/lolieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### It is not a tool or magic it is the power to create your Imagination in reality.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my personal website.
+- 🌱 I’m currently learning c#
+- 💬 Ask me about my day :)
+- 📫 How to reach me: Lolieg#0001 (Discord)
+- ⚡ Fun fact: Sleeping with a problem can actually solve it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolieg&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolieg)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lolieg)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+*Started using WakaTime in February 2021*
